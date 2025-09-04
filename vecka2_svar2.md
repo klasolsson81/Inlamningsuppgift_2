@@ -1,6 +1,6 @@
-# Vad är ett Git-commit och varför är det viktigt?
+# Vad Ã¤r ett Git-commit och varfÃ¶r Ã¤r det viktigt?
 
-##Svar:
-?? En Git commint är en sparad ändring av ett ögonblick i ett Git-repositorium. Det fungerar som en "snapshot" av projektets filer vid en viss tidpunkt. Varje commit innehåller information om vilka filer som ändrats, vem som gjorde ändringarna, när de gjordes, och en beskrivande meddelande som förklarar ändringarna.
+## Svar:
+?? En Git commit Ã¤r en sparad Ã¤ndring av ett Ã¶gonblick i ett Git-repositorium. Det fungerar som en "snapshot" av projektets filer vid en viss tidpunkt. Varje commit innehÃ¥ller information om vilka filer som Ã¤ndrats, vem som gjorde Ã¤ndringarna, nÃ¤r de gjordes, och en beskrivande meddelande som fÃ¶rklarar Ã¤ndringarna.
 
 
