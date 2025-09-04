@@ -1,27 +1,27 @@
-#Fråga 1
-##Beskriv skillnaden mellan vattenfallsmodellen och agil metodik.När bör man använda vilken, och varför?
+# FrÃ¥ga 1
+## Beskriv skillnaden mellan vattenfallsmodellen och agil metodik.NÃ¤r bÃ¶r man anvÃ¤nda vilken, och varfÃ¶r?
 
 
-#Vattenfall-metoden:
-Vattenfallsmetoden är som att bygga ett hus. Man måste ha en komplett ritning innan man ens börjar gräva grunden. Allt sker i en strikt ordning, och man kan inte gå vidare till nästa steg förrän det föregående är 100% klart.
-##Planering:
-Först måste vi planera allt och göra en komplett bild av allt som måste göras, från början till slut. 
-##Process:
-Processen följer en rak linje steg för steg: 
-Design –> Bygga -> Testa ->  Leverera
-##Reslutat:
-En komplett app som levereras i slutet av projektet. Varken jag eller en eventuell kund skulle se en fungerande del av appen förrän allt är helt färdigt.
+# Vattenfall-metoden:
+Vattenfallsmetoden Ã¤r som att bygga ett hus. Man mÃ¥ste ha en komplett ritning innan man ens bÃ¶rjar grÃ¤va grunden. Allt sker i en strikt ordning, och man kan inte gÃ¥ vidare till nÃ¤sta steg fÃ¶rrÃ¤n det fÃ¶regÃ¥ende Ã¤r 100% klart.
+## Planering:
+FÃ¶rst mÃ¥ste vi planera allt och gÃ¶ra en komplett bild av allt som mÃ¥ste gÃ¶ras, frÃ¥n bÃ¶rjan till slut. 
+## Process:
+Processen fÃ¶ljer en rak linje steg fÃ¶r steg: 
+Design â€“> Bygga -> Testa ->  Leverera
+## Reslutat:
+En komplett app som levereras i slutet av projektet. Varken jag eller en eventuell kund skulle se en fungerande del av appen fÃ¶rrÃ¤n allt Ã¤r helt fÃ¤rdigt.
 
 
-#Agile-metoden:
-Den agila metoden är mer som att bygga med lego. Man har en idé om vad man vill bygga, men man bygger och testar en liten del i taget. Man kan ändra sig och bygga om längs vägen.
-##Planering:
-Här gör vi en övergripande vision om hur vår app skall se ut. Vi behöver inte planera allt direkt och komplett utan kan ändra när vi eller kunden vill.
-##Process:
-Arbetet delas upp i mindre steg. T ex. kan vi börja med registeringsdelen, där vi designar den utvecklar den och testar den. Kanske vi vill göra några ändringar redan här eller lägga till något. 
-##Reslutat:
-Reslutatat kommer i små, kontinuerliga delar. Redan efter att vi ”bara” skapat registeringsdelen så kan vi visa upp denna för kunden och hela appen växer efter att varje del blir klar. 
+# Agile-metoden:
+Den agila metoden Ã¤r mer som att bygga med lego. Man har en idÃ© om vad man vill bygga, men man bygger och testar en liten del i taget. Man kan Ã¤ndra sig och bygga om lÃ¤ngs vÃ¤gen.
+## Planering:
+HÃ¤r gÃ¶r vi en Ã¶vergripande vision om hur vÃ¥r app skall se ut. Vi behÃ¶ver inte planera allt direkt och komplett utan kan Ã¤ndra nÃ¤r vi eller kunden vill.
+## Process:
+Arbetet delas upp i mindre steg. T ex. kan vi bÃ¶rja med registeringsdelen, dÃ¤r vi designar den utvecklar den och testar den. Kanske vi vill gÃ¶ra nÃ¥gra Ã¤ndringar redan hÃ¤r eller lÃ¤gga till nÃ¥got. 
+## Reslutat:
+Reslutatat kommer i smÃ¥, kontinuerliga delar. Redan efter att vi â€baraâ€ skapat registeringsdelen sÃ¥ kan vi visa upp denna fÃ¶r kunden och hela appen vÃ¤xer efter att varje del blir klar. 
 
 
-#Vad hade jag valt?
-Känns nästan som att Agile är bäst i alla lägen. Även om jag utvecklar själv, känns det som att göra del för del, hela tiden kunna gå in och göra ändringar, känns som ett bättre alternativ. Om man däremot redan från början har en strikt order om vad som skall byggas, en komplett ritning utan att det kommer ske några förändringar, så kan man givetvis välja vattenfallsmetoden. Lite som när man köpt en möbel från Ikea. Du har redan en färdig ritning och måste följa steg-för-steg för att få en komplett produkt. 
+# Vad hade jag valt?
+KÃ¤nns nÃ¤stan som att Agile Ã¤r bÃ¤st i alla lÃ¤gen. Ã„ven om jag utvecklar sjÃ¤lv, kÃ¤nns det som att gÃ¶ra del fÃ¶r del, hela tiden kunna gÃ¥ in och gÃ¶ra Ã¤ndringar, kÃ¤nns som ett bÃ¤ttre alternativ. Om man dÃ¤remot redan frÃ¥n bÃ¶rjan har en strikt order om vad som skall byggas, en komplett ritning utan att det kommer ske nÃ¥gra fÃ¶rÃ¤ndringar, sÃ¥ kan man givetvis vÃ¤lja vattenfallsmetoden. Lite som nÃ¤r man kÃ¶pt en mÃ¶bel frÃ¥n Ikea. Du har redan en fÃ¤rdig ritning och mÃ¥ste fÃ¶lja steg-fÃ¶r-steg fÃ¶r att fÃ¥ en komplett produkt. 
